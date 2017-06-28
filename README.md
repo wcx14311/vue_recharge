@@ -6,11 +6,12 @@
 
 ## 配置actions
 ```js
-<script type="text/javascript" src="js/vue.min.js"></script>
-<script type="text/javascript" src="js/vue-router.min.js"></script>
-<script type="text/javascript" src="js/vue-resource.min.js"></script>
-<script type="text/javascript" src="js/element-ui.js"></script>
-<script type="text/javascript" src="js/app.js"></script>
+	<script type="text/javascript" src="js/vue.min.js"></script>
+	<script type="text/javascript" src="js/vue-router.min.js"></script>
+	<script type="text/javascript" src="js/vue-resource.min.js"></script>
+	<script type="text/javascript" src="js/element-ui.js"></script>
+	<script type="text/javascript" src="js/app.js"></script>
+```
 
 
 
